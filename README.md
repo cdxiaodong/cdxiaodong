@@ -51,18 +51,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CDxiaodong"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake -->
-![](https://github.com/CDxiaodong/CDxiaodong/blob/output/github-contribution-grid-snake.svg)
-
-<!--   skyline 
-<a href="https://skyline.github.com/CDxiaodong/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CDxiaodong" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
@@ -72,34 +60,6 @@
 <a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CDxiaodong" alt="CDxiaodong" /></a>
-</p>
-
-
-
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
- 
-
-
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
 
 
 
@@ -108,49 +68,6 @@ graph TD;
 
 
 
-
-
-
-
-<!-- Belarus - My Home-->
-  
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
-     }
-   }
- ]
-}
-
-```
-
-
-
-
-
-
-<p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-
-</p>
 
 
 
@@ -158,9 +75,6 @@ graph TD;
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/CDxiaodong/count.svg">  
-
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
 ## Star History
