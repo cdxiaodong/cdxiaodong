@@ -51,7 +51,8 @@
 
 
 ### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
+This github account was created on September 12, 2020
+counting of visitors to this page in this section started from September 12, 2023
 
 ![](https://count.getloli.com/get/@CDxiaodong.github.readme)
 </br>
