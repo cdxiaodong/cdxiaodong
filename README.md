@@ -10,10 +10,9 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=CDxiaodong.CDxiaodong" alt="visitors"/>   
 </p>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+CDxiadong;+Welcome+to+My+Profile!;start+programmed+at+2020;Always+learning+new+things+;Machine+cloud+ebpf+redteam+security+researcher)](https://git.io/typing-svg)
 
 <!--   my-kaggle     
 ### My achievements on [kaggle]():
