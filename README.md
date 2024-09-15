@@ -56,6 +56,7 @@ Now I am committed to cloud security and container security research
 - CNVD-2022-51701 
 - CNVD-C-2023-73489
 - CNNVD-2023/2024 and more than a dozen.
+- The CNNVD certificate on the closed-source domestic platform is easy for me to obtain, and I am doing my homework on foreign open-source CVE platforms
 - src on cloud-sercurity is going on.
 ## - Articles You never want miss（Arrange according to time, Some articles require a password. Contact me to get it ）
 Fishing Technique Report : 
