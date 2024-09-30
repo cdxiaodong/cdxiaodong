@@ -133,6 +133,8 @@ office efficiency :
 - https://github.com/White-hua/Apt_t00ls (zero_day)(1.6k star+)
 - https://github.com/Liubsyy/JarEditor (more fluencely)(300 star+)
 
+## - The red team binary evasion project that I have developed.(By c++ 、cs 、c)
+- 
 
 
 ### Profile Views
