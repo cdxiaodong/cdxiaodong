@@ -134,7 +134,13 @@ office efficiency :
 - https://github.com/Liubsyy/JarEditor (more fluencely)(300 star+)
 
 ## - The red team binary evasion project that I have developed.(By c++ 、cs 、c)
-- 
+- https://github.com/cdxiaodong/audio-reverse-shell.git
+- https://github.com/cdxiaodong/AVkiller
+- https://github.com/cdxiaodong/packer.git
+- https://github.com/cdxiaodong/cs.git
+- https://github.com/cdxiaodong/TrustedInstaller-kill-wdf(win10)
+- https://github.com/cdxiaodong/STEAL-HOOK
+- https://github.com/cdxiaodong/some-function-in-binary
 
 
 ### Profile Views
