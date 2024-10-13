@@ -5,8 +5,6 @@
     <a href="https://github.com/CDxiaodong/CDxiaodong"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/CDxiaodong/CDxiaodong/graphs/contributors"><img src="https://img.shields.io/github/contributors/CDxiaodong/CDxiaodong?color=blue"></a>
-    <a href="https://github.com/CDxiaodong/CDxiaodong/stargazers"><img src="https://img.shields.io/github/stars/CDxiaodong/CDxiaodong.svg?logo=github"></a>
-    <a href="https://github.com/CDxiaodong/CDxiaodong/network/members"><img src="https://img.shields.io/github/forks/CDxiaodong/CDxiaodong.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=CDxiaodong.CDxiaodong" alt="visitors"/>   
 </p>
 
