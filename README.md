@@ -79,36 +79,36 @@ office efficiency :
 
 ## - Articles You never want miss（Arrange according to time, Some articles require a password. Contact me to get it ）
 Fishing Technique Report : 
-- https://cdxiaodong.github.io/%E9%92%93%E9%B1%BC%E6%89%8B%E6%B3%95%E6%8A%A5%E5%91%8A-CD.html
+- [Phishing Techniques Report - CD](https://cdxiaodong.github.io/%E9%92%93%E9%B1%BC%E6%89%8B%E6%B3%95%E6%8A%A5%E5%91%8A-CD.html)
 
 Web Penetration and Code Audit Articles : 
-- https://cdxiaodong.github.io/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%85%A5%E9%97%A8.html
-- https://cdxiaodong.github.io/%E6%98%8E%E6%BA%90%E4%BA%91.html
-- https://cdxiaodong.github.io/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B0%8Ftips.html
-- https://cdxiaodong.github.io/ysos%E5%88%A9%E7%94%A8nc%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.html
-- https://cdxiaodong.github.io/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1-rce%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%BF%AB%E9%80%9F4%E5%B1%82%E6%8E%A2%E7%B4%A2%E6%9C%AA%E6%8E%88%E6%9D%83.html
-- https://cdxiaodong.github.io/java%E5%BF%AB%E9%80%9Frce%E4%B9%8B%E6%89%B9%E9%87%8F%E5%8F%8D%E7%BC%96%E8%AF%91%E5%90%8E%E4%B9%8B%E4%B8%89%E7%BA%BF%E5%B9%B6%E8%A1%8C(%E4%BD%BF%E6%95%88%E7%8E%87%E6%8B%89%E6%BB%A1)%E6%89%BE%E6%B4%9E.html
+- [Java Code Audit Getting Started](https://cdxiaodong.github.io/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%85%A5%E9%97%A8.html)
+- [MingYuan Cloud](https://cdxiaodong.github.io/%E6%98%8E%E6%BA%90%E4%BA%91.html)
+- [Java Code Audit Quick Tips](https://cdxiaodong.github.io/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B0%8Ftips.html)
+- [Exploiting Java Deserialization with NC](https://cdxiaodong.github.io/ysos%E5%88%A9%E7%94%A8nc%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.html)
+- [Java Code Audit - Rapid RCE Exploration (4-Step Quick Guide)](https://cdxiaodong.github.io/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1-rce%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%BF%AB%E9%80%9F4%E5%B1%82%E6%8E%A2%E7%B4%A2%E6%9C%AA%E6%8E%88%E6%9D%83.html)
+- [Parallel Batch Exploiting Java RCE for Maximum Efficiency](https://cdxiaodong.github.io/java%E5%BF%AB%E9%80%9Frce%E4%B9%8B%E6%89%B9%E9%87%8F%E5%8F%8D%E7%BC%96%E8%AF%91%E5%90%8E%E4%B9%8B%E4%B8%89%E7%BA%BF%E5%B9%B6%E8%A1%8C(%E4%BD%BF%E6%95%88%E7%8E%87%E6%8B%89%E6%BB%A1)%E6%89%BE%E6%B4%9E.html)
 - https://cdxiaodong.life/article/17-java-vluns
 - https://cdxiaodong.life/article/java9-self-attch
 
 AD and Intranet penetration :
-- https://cdxiaodong.github.io/%E4%BB%8E%E5%A4%96%E7%BD%91%20Weblogic%20%E6%89%93%E8%BF%9B%E5%86%85%E7%BD%91%EF%BC%8C%E5%86%8D%E5%88%B0%E7%BA%A6%E6%9D%9F%E5%A7%94%E6%B4%BE%E6%8E%A5%E7%AE%A1%E5%9F%9F%E6%8E%A7205359.html
+- [From External Network to Internal Network via Weblogic to Domain Controller - 20359](https://cdxiaodong.github.io/%E4%BB%8E%E5%A4%96%E7%BD%91%20Weblogic%20%E6%89%93%E8%BF%9B%E5%86%85%E7%BD%91%EF%BC%8C%E5%86%8D%E5%88%B0%E7%BA%A6%E6%9D%9F%E5%A7%94%E6%B4%BE%E6%8E%A5%E7%AE%A1%E5%9F%9F%E6%8E%A7205359.html)
 
 Programming Development Notes :
-- https://cdxiaodong.github.io/phpwebshell%E4%BB%8E%E5%9F%BA%E7%A1%80%E5%88%B0%E6%B7%B1%E5%85%A5%E5%8F%98%E7%A7%8D.html
-- https://cdxiaodong.github.io/turated%E5%85%B3%E6%8E%89windowsdefance.html
-- https://cdxiaodong.github.io/%E5%88%B6%E4%BD%9Ctwitter%E7%88%AC%E8%99%AB.html
-- https://cdxiaodong.github.io/shell%20%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91.html
-- https://cdxiaodong.github.io/nps%E9%BB%98%E8%AE%A4%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81%E7%88%86%E7%A0%B41w%E5%A4%9A%E4%B8%AAurls.html
-- https://cdxiaodong.github.io/java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%AD%A6%E5%99%A8%E5%8C%96%E5%88%B6%E4%BD%9C.html
+- [PHP WebShell: From Basics to Advanced Variants](https://cdxiaodong.github.io/phpwebshell%E4%BB%8E%E5%9F%BA%E7%A1%80%E5%88%B0%E6%B7%B1%E5%85%A5%E5%8F%98%E7%A7%8D.html)
+- [Disabling Windows Defender with Turated](https://cdxiaodong.github.io/turated%E5%85%B3%E6%8E%89windowsdefance.html)
+- [Building a Twitter Crawler](https://cdxiaodong.github.io/%E5%88%B6%E4%BD%9Ctwitter%E7%88%AC%E8%99%AB.html)
+- [Shell Scripting and Development](https://cdxiaodong.github.io/shell%20%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91.html)
+- [Exploiting NPS: Default Account Password Leaks Over 10,000 URLs](https://cdxiaodong.github.io/nps%E9%BB%98%E8%AE%A4%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81%E7%88%86%E7%A0%B41w%E5%A4%9A%E4%B8%AAurls.html)
+- [Weaponizing Java Deserialization](https://cdxiaodong.github.io/java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%AD%A6%E5%99%A8%E5%8C%96%E5%88%B6%E4%BD%9C.html)
 
 Binary development Articles：
-- https://cdxiaodong.github.io/%E5%86%99%E4%B8%AA%E5%A3%B3.html
-- https://cdxiaodong.github.io/%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%E5%BC%82%E5%B8%B8hook.html
-- https://cdxiaodong.github.io/vt%E5%85%A8%E5%85%8D%E6%9D%80%E5%8A%A0%E8%BD%BD%E5%99%A8.html
+- [Writing Your First Shell](https://cdxiaodong.github.io/%E5%86%99%E4%B8%AA%E5%A3%B3.html)
+- [Hooking Memory Access Exceptions](https://cdxiaodong.github.io/%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%E5%BC%82%E5%B8%B8hook.html)
+- [VT (VirusTotal) Fully Bypassed Loader](https://cdxiaodong.github.io/vt%E5%85%A8%E5%85%8D%E6%9D%80%E5%8A%A0%E8%BD%BD%E5%99%A8.html)
 
 security research ：
-- https://cdxiaodong.github.io/%E5%AE%9E%E7%8E%B0%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E9%9D%99%E9%BB%98%E5%AE%89%E8%A3%85%E7%A0%94%E7%A9%B6.html
+- [Research on Silent Installation of Any File](https://cdxiaodong.github.io/%E5%AE%9E%E7%8E%B0%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E9%9D%99%E9%BB%98%E5%AE%89%E8%A3%85%E7%A0%94%E7%A9%B6.html)
 - Rasp confrontation :https://cdxiaodong.life/article/RASP-Attack_and_Defence
 
 Deep learning :
