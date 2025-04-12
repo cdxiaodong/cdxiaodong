@@ -163,7 +163,9 @@ Developed in **C++**, **C#**, and **C** for advanced evasion techniques:
 
 
 
-[MIT](LICENSE)
+<p align="center">
+  <a href="mailto:cdxiaodong@systemshell.org">📧 Contact me</a> | <a href="LICENSE">MIT License</a>
+</p>
 
 
 </p>
