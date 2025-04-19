@@ -131,7 +131,7 @@ office efficiency :
 - [**Network Isolation in K8s Security**](https://cdxiaodong.life/article/Network_isolation_in_K8s_Security) - Securing Kubernetes with network policies
 
 ### ⚙️ Office Efficiency
-- [**Notion vs. Feishu**](https://cdxiaodong.life/article/notion_or_feishu) - Comparing productivity tools
+- [**Chart Studio**](https://cdxiaodong.life/article/notion_or_feishu) - Chart Studio
 - [**Favorite Productivity Tips**](https://cdxiaodong.life/article/favorite-article) - My go-to efficiency hacks
 
 ## 🌐 Explore My SaaS Front-End Projects
