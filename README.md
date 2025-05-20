@@ -36,6 +36,11 @@
 | <img src="img/EKSCluster.png" alt="EKSClusterGame" width="324" height="324"> | <img src="img/K8sLanParty.png" alt="K8s-Lan-Party" width="324" height="324"> |
 | [View on GitHub](https://github.com/user-attachments/assets/5a7473db-2cf9-44ed-b4cb-9d02a81d90af) | [View on GitHub](https://github.com/user-attachments/assets/71677437-6689-413c-81c8-7736a60737bf) |
 
+| **CloudHunterGame** |
+|:------------------:|
+| <img src="img/Cloudhunter.png" alt="Cloudhunter" width="324" height="324"> | 
+| [View on GitHub](https://github.com/user-attachments/assets/5a7473db-2cf9-44ed-b4cb-9d02a81d90af) | 
+
 **Focus**: Committed to advancing research in **cloud security** and **container security**.
 
 ## 🔍 Vulnerabilities & Security Research
