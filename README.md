@@ -10,7 +10,7 @@
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+CDxiadong;+Welcome+to+My+Profile!;start+programmed+at+2020;Always+learning+new+things+;Machine+CloudNative+Ai+Redteam+Security+Researcher)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=你好+👋,+我是CDxiadong;+欢迎来到我的个人资料！;+2020年开始学习网络安全;+总是在学习新事物+;+终端+云原生+红队+安全研究员)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=你好+👋,+我是CDxiadong;+欢迎来到我的个人资料！;+2020年开始学习网络安全;+总是在学习新事物+;目前从事+AI+云原生+红队+的安全研究)](https://git.io/typing-svg)
 
 <!--   my-kaggle     
 ### My achievements on [kaggle]():
