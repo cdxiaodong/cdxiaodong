@@ -44,7 +44,7 @@
 
 | **AI Security Challenge** | **Breaking The Barriers** |
 |:------------------:|:-----------------:|
-| <img src="img/mlF65.png" alt="AISecurityChallenge" width="324" height="324"> | <img src="img/cloudsecuritychampionship.png" alt="Contain-Me-If-You-Can" width="324" height="324"> |
+| <img src="img/mlF65.png" alt="AISecurityChallenge" width="324" height="324"> | <img src="img/EntraID_Sensitive_Privileges_Breaking_Barriers.png" alt="Contain-Me-If-You-Can" width="324" height="324"> |
 | [View on GitHub](https://github.com/user-attachments/assets/5a7473db-2cf9-44ed-b4cb-9d02a81d90af) | | [View on GitHub](https://github.com/user-attachments/assets/71677437-6689-413c-81c8-7736a60737bf) |
 
 **Focus**: Committed to advancing research in **cloud security** and **container security**. **Dream** to join **Wiz**
