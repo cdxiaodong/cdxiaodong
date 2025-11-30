@@ -172,7 +172,7 @@ Developed in **C++**, **C#**, and **C** for advanced evasion techniques:
 - **Visitor Tracking**: Counting page views since **September 12, 2023**  
 #### Thanks for visiting :heart:
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/CDxiaodong/count.svg">  
+<img src="https://komarev.com/ghpvc/?username=CDxiaodong">  
 
 
 
