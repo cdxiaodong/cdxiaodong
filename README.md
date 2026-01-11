@@ -8,9 +8,8 @@
 </p>
 
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=+Welcome+to+My+Profile!👋,+I+am+CDxiadong;start+programmed+at+2020;Always+learning+new+things+;Machine+CloudNative+Ai+Redteam+Security+Researcher)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=+欢迎来到我的个人资料！👋,+我是CDxiadong;+2020年开始学习网络安全;+总是在学习新事物+;目前从事+AI+云原生+红队+的安全研究)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&duration=8000&lines=+Welcome+to+My+Profile!👋,+I+am+CDxiadong;start+programmed+at+2020;Always+learning+new+things+;Machine+CloudNative+Ai+Redteam+Security+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&duration=8000&lines=+欢迎来到我的个人资料！👋,+我是CDxiadong;+2020年开始学习网络安全;+总是在学习新事物+;目前从事+AI+云原生+红队+的安全研究)](https://git.io/typing-svg)
 
 <!--   my-kaggle     
 ### My achievements on [kaggle]():
