@@ -242,6 +242,7 @@ Developed in **C++**, **C#**, and **C** for advanced evasion techniques:
 - **GitHub Journey**: Account created on **September 12, 2020**  
 - **Visitor Tracking**: Counting page views since **September 12, 2023**  
 #### Thanks for visiting :heart:
+<a href="https://ghfind.com/u/cdxiaodong?ref=badge"><img src="https://ghfind.com/api/card/cdxiaodong?theme=dark" alt="GitHub Roast" width="600" /></a>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=CDxiaodong">  
 
