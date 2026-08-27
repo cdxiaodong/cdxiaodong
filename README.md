@@ -88,14 +88,17 @@ I am an AI Agent security researcher and engineer working across runtime guardra
 
 ## 🚀 Featured Projects & Open-source Impact
 
-| Project & contribution | Focus |
-| --- | --- |
-| 🤖 [**cain-agent**](https://github.com/cdxiaodong/cain-agent) [![Stars](https://img.shields.io/github/stars/cdxiaodong/cain-agent?style=flat-square&label=stars&color=2F81F7)](https://github.com/cdxiaodong/cain-agent/stargazers)<br><sub><strong>Creator / Maintainer</strong></sub> | Secure AI assessment agent with deterministic orchestration, scope control, evidence pipelines, and six-cloud coverage. |
-| 🖥️ [**AionUi**](https://github.com/iOfficeAI/AionUi) [![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&label=stars&color=238636)](https://github.com/iOfficeAI/AionUi/stargazers)<br><sub><strong>Core Contributor</strong></sub> | 24/7 cowork application supporting Claude Code, Codex, OpenCode, OpenClaw, Hermes, and 20+ CLI agents. |
-| 🔭 [**fscan**](https://github.com/shadow1ng/fscan) [![Stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square&label=stars&color=238636)](https://github.com/shadow1ng/fscan/stargazers)<br><sub><strong>Contributor</strong></sub> | Contributed port-exclusion capability to a widely used intranet security assessment toolkit. |
-| 🧠 [**Xiaobei / WiseFlow**](https://github.com/TeamWiseFlow/xiaobei) [![Stars](https://img.shields.io/github/stars/TeamWiseFlow/xiaobei?style=flat-square&label=stars&color=8B5CF6)](https://github.com/TeamWiseFlow/xiaobei/stargazers)<br><sub><strong>Open-source Contributor</strong></sub> | AI agent platform for content intelligence, acquisition workflows, and small-business operations. |
-| 🧰 [**Apt_t00ls**](https://github.com/White-hua/Apt_t00ls) [![Stars](https://img.shields.io/github/stars/White-hua/Apt_t00ls?style=flat-square&label=stars&color=DC2626)](https://github.com/White-hua/Apt_t00ls/stargazers)<br><sub><strong>Contributor / Fork Maintainer</strong></sub> | Vulnerability verification toolkit used in practical, authorized security workflows. |
-| ☁️ [**Cloud_Unauthorized_Tool**](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool) [![Stars](https://img.shields.io/github/stars/cdxiaodong/Cloud_Unauthorized_Tool?style=flat-square&label=stars&color=F59E0B)](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool/stargazers)<br><sub><strong>Creator / Maintainer</strong></sub> | Go-based cloud exposure and unauthorized-access validation across multiple services. |
+### Built & Maintained
+
+- 🤖 [**cain-agent**](https://github.com/cdxiaodong/cain-agent) [![Stars](https://img.shields.io/github/stars/cdxiaodong/cain-agent?style=flat-square&label=stars&color=2F81F7)](https://github.com/cdxiaodong/cain-agent/stargazers) — Secure AI assessment agent with deterministic orchestration, scope control, evidence pipelines, and six-cloud coverage.
+- ☁️ [**Cloud_Unauthorized_Tool**](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool) [![Stars](https://img.shields.io/github/stars/cdxiaodong/Cloud_Unauthorized_Tool?style=flat-square&label=stars&color=F59E0B)](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool/stargazers) — Go-based cloud exposure and unauthorized-access validation across multiple services.
+
+### Selected Open-source Contributions
+
+- 🖥️ [**AionUi**](https://github.com/iOfficeAI/AionUi) [![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&label=stars&color=238636)](https://github.com/iOfficeAI/AionUi/stargazers) — **Core Contributor** to a 24/7 cowork application supporting Claude Code, Codex, OpenCode, OpenClaw, Hermes, and 20+ CLI agents.
+- 🔭 [**fscan**](https://github.com/shadow1ng/fscan) [![Stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square&label=stars&color=238636)](https://github.com/shadow1ng/fscan/stargazers) — Contributed port-exclusion capability to a widely used intranet security assessment toolkit.
+- 🧠 [**Xiaobei / WiseFlow**](https://github.com/TeamWiseFlow/xiaobei) [![Stars](https://img.shields.io/github/stars/TeamWiseFlow/xiaobei?style=flat-square&label=stars&color=8B5CF6)](https://github.com/TeamWiseFlow/xiaobei/stargazers) — Contributed to an AI agent platform for content intelligence, acquisition workflows, and small-business operations.
+- 🧰 [**Apt_t00ls**](https://github.com/White-hua/Apt_t00ls) [![Stars](https://img.shields.io/github/stars/White-hua/Apt_t00ls?style=flat-square&label=stars&color=DC2626)](https://github.com/White-hua/Apt_t00ls/stargazers) — Contributor and fork maintainer for practical, authorized vulnerability verification workflows.
 
 > Security projects are intended for authorized testing, defensive research, and environments where the operator has explicit permission.
 
