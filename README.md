@@ -88,14 +88,14 @@ I am an AI Agent security researcher and engineer working across runtime guardra
 
 ## 🚀 Featured Projects & Open-source Impact
 
-| Project | Role | Impact and focus |
-| --- | --- | --- |
-| 🤖 [**cain-agent**](https://github.com/cdxiaodong/cain-agent) [![Stars](https://img.shields.io/github/stars/cdxiaodong/cain-agent?style=flat-square&label=stars&color=2F81F7)](https://github.com/cdxiaodong/cain-agent/stargazers) | **Creator / Maintainer** | Real-world AI security-testing agent with deterministic orchestration, scope enforcement, evidence pipelines, separated validation sessions, and six-cloud coverage. |
-| 🖥️ [**AionUi**](https://github.com/iOfficeAI/AionUi) [![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&label=stars&color=238636)](https://github.com/iOfficeAI/AionUi/stargazers) | **Core Contributor** | 24/7 cowork application supporting Claude Code, Codex, OpenCode, OpenClaw, Hermes, and 20+ CLI agents. |
-| 🔭 [**fscan**](https://github.com/shadow1ng/fscan) [![Stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square&label=stars&color=238636)](https://github.com/shadow1ng/fscan/stargazers) | **Contributor** | Contributed port-exclusion capability to a widely used intranet security assessment toolkit. |
-| 🧠 [**Xiaobei / WiseFlow**](https://github.com/TeamWiseFlow/xiaobei) [![Stars](https://img.shields.io/github/stars/TeamWiseFlow/xiaobei?style=flat-square&label=stars&color=8B5CF6)](https://github.com/TeamWiseFlow/xiaobei/stargazers) | **Open-source Contributor** | AI agent platform for automated content intelligence, acquisition workflows, and small-business operations. |
-| 🧰 [**Apt_t00ls**](https://github.com/White-hua/Apt_t00ls) [![Stars](https://img.shields.io/github/stars/White-hua/Apt_t00ls?style=flat-square&label=stars&color=DC2626)](https://github.com/White-hua/Apt_t00ls/stargazers) | **Contributor / Fork Maintainer** | High-risk vulnerability verification toolkit; maintained a personal fork and contributed to its practical security workflow. |
-| ☁️ [**Cloud_Unauthorized_Tool**](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool) [![Stars](https://img.shields.io/github/stars/cdxiaodong/Cloud_Unauthorized_Tool?style=flat-square&label=stars&color=F59E0B)](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool/stargazers) | **Creator / Maintainer** | Go-based cloud exposure and unauthorized-access validation across multiple services for controlled assessments. |
+| Project & contribution | Focus |
+| --- | --- |
+| 🤖 [**cain-agent**](https://github.com/cdxiaodong/cain-agent) [![Stars](https://img.shields.io/github/stars/cdxiaodong/cain-agent?style=flat-square&label=stars&color=2F81F7)](https://github.com/cdxiaodong/cain-agent/stargazers)<br><sub><strong>Creator / Maintainer</strong></sub> | Secure AI assessment agent with deterministic orchestration, scope control, evidence pipelines, and six-cloud coverage. |
+| 🖥️ [**AionUi**](https://github.com/iOfficeAI/AionUi) [![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&label=stars&color=238636)](https://github.com/iOfficeAI/AionUi/stargazers)<br><sub><strong>Core Contributor</strong></sub> | 24/7 cowork application supporting Claude Code, Codex, OpenCode, OpenClaw, Hermes, and 20+ CLI agents. |
+| 🔭 [**fscan**](https://github.com/shadow1ng/fscan) [![Stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square&label=stars&color=238636)](https://github.com/shadow1ng/fscan/stargazers)<br><sub><strong>Contributor</strong></sub> | Contributed port-exclusion capability to a widely used intranet security assessment toolkit. |
+| 🧠 [**Xiaobei / WiseFlow**](https://github.com/TeamWiseFlow/xiaobei) [![Stars](https://img.shields.io/github/stars/TeamWiseFlow/xiaobei?style=flat-square&label=stars&color=8B5CF6)](https://github.com/TeamWiseFlow/xiaobei/stargazers)<br><sub><strong>Open-source Contributor</strong></sub> | AI agent platform for content intelligence, acquisition workflows, and small-business operations. |
+| 🧰 [**Apt_t00ls**](https://github.com/White-hua/Apt_t00ls) [![Stars](https://img.shields.io/github/stars/White-hua/Apt_t00ls?style=flat-square&label=stars&color=DC2626)](https://github.com/White-hua/Apt_t00ls/stargazers)<br><sub><strong>Contributor / Fork Maintainer</strong></sub> | Vulnerability verification toolkit used in practical, authorized security workflows. |
+| ☁️ [**Cloud_Unauthorized_Tool**](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool) [![Stars](https://img.shields.io/github/stars/cdxiaodong/Cloud_Unauthorized_Tool?style=flat-square&label=stars&color=F59E0B)](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool/stargazers)<br><sub><strong>Creator / Maintainer</strong></sub> | Go-based cloud exposure and unauthorized-access validation across multiple services. |
 
 > Security projects are intended for authorized testing, defensive research, and environments where the operator has explicit permission.
 
@@ -132,47 +132,83 @@ I am an AI Agent security researcher and engineer working across runtime guardra
 | ⚙️ **Automation & Developer Tools** | [Site-Specific Extension Manager](https://github.com/cdxiaodong/Site-Specific-Extension-Manager) · [workflow-use](https://github.com/cdxiaodong/workflow-use) · [clash-verge-mcp-pro](https://github.com/cdxiaodong/clash-verge-mcp-pro) · [web-check-zh](https://github.com/cdxiaodong/web-check-zh) · [Docker utilities](https://github.com/cdxiaodong/-Docker-) · [Windows Internals notes](https://github.com/cdxiaodong/windows-internals-7th-Chinese-) |
 | 🧩 **Products & Interactive Systems** | [Cloud-Native ATT&CK Matrix](https://cloud-matrix.cdxiaodong.life/) · [Top 7 Cloud Attack Paths](https://top-7-attack-paths.cdxiaodong.life/) · [Favorite Articles Real-Time](https://favorite-article.cdxiaodong.life/) |
 
-## 📚 Writing Library
+## 📝 Articles You Don't Want to Miss
 
-### 🤖 Agentic AI, LLM & Model Engineering
+### ⭐ Featured
 
-- [OpenClaw 17个漏洞攻击面：发布此文时只修复一个](https://cdxiaodong.life/article/3230f0c5-b87c-80c6-b3ca-e3ac510aa3cd)
-- [工具调用的信任困境：AI 编程智能体是如何沦为“盲从执行者”的](https://cdxiaodong.life/article/31a0f0c5-b87c-80d4-8c44-d29040794e9b)
-- [Claude Code v2.1.71 -- 完整架构分析报告](https://cdxiaodong.life/article/31d0f0c5-b87c-8043-84a2-d47565f6f9e5)
-- [从“灰产数据”到“数据供应链”：我对 Codex 污染问题的四轮追溯](https://cdxiaodong.life/article/3060f0c5-b87c-80c2-b91a-d531f9cb294b)
-- [AI Agent 中浮点计算导致结果不一致：成因、影响与优化策略](https://cdxiaodong.life/article/27c0f0c5-b87c-80f0-8eb0-e624f409b8d5)
+- [**OpenClaw 17个漏洞攻击面：发布此文时只修复一个**](https://cdxiaodong.life/article/3230f0c5-b87c-80c6-b3ca-e3ac510aa3cd) — Agent runtime、SSRF、凭证泄露与沙箱边界研究
+- [**工具调用的信任困境：AI 编程智能体如何沦为“盲从执行者”**](https://cdxiaodong.life/article/31a0f0c5-b87c-80d4-8c44-d29040794e9b) — Coding Agent 工具信任与行为安全
+- [**Claude Code v2.1.71 完整架构分析报告**](https://cdxiaodong.life/article/31d0f0c5-b87c-8043-84a2-d47565f6f9e5) — Agent 架构、调度与工具执行链分析
+- [**从“灰产数据”到“数据供应链”：Codex 污染问题的四轮追溯**](https://cdxiaodong.life/article/3060f0c5-b87c-80c2-b91a-d531f9cb294b) — 模型数据供应链与污染溯源
+- [**AI Agent 中浮点计算导致结果不一致：成因与优化**](https://cdxiaodong.life/article/27c0f0c5-b87c-80f0-8eb0-e624f409b8d5) — Agent 可靠性与数值一致性
+- [**智·战 2025：腾讯云鼎 AI 安全测试大赛全景复盘**](https://cdxiaodong.life/article/2ba0f0c5-b87c-8060-92c5-e37f04442bc5) — 模型、Agent 框架与 Benchmark 对比
+- [**RASP Attack and Defence**](https://cdxiaodong.life/article/RASP-Attack_and_Defence) — 从常规绕过到 ASM 动态擦除 Hook
+- [**50 种终端进程注入：原理与源码**](https://cdxiaodong.life/article/2a60f0c5-b87c-8095-92df-eb1fb180b488) — Endpoint 与 Windows Runtime 研究
+
+<details>
+<summary><strong>📚 More Articles — Expand the complete topic archive (50+)</strong></summary>
+
+### 🤖 AI, Agent & Model Engineering
+
 - [简单制作 AI API 办公机器人](https://cdxiaodong.life/article/Multiple_AI_tool_script)
 - [不同深度学习方法在数据特征提取中的应用与比较](https://cdxiaodong.life/article/Application_and_comparison_of_different_deep_learning_methods_in_data_feature_extraction)
+- [OpenClaw Threat Model](https://trust.openclaw.ai/trust/zh-cn/threatmodel)
 
-### ☁️ Cloud & Container Security
+### ☁️ Cloud Native & Container Security
 
 - [Kubernetes Goat](https://cdxiaodong.life/article/Kubernetes-Goat)
 - [CVE-2024-21626 Analysis](https://cdxiaodong.life/article/CVE-2024-21626)
 - [eBPF in Docker](https://cdxiaodong.life/article/ebpf_in_docker)
-- [Container Security Verification with eBPF](https://cdxiaodong.life/article/Solution_on_Container_Security_Verification_based_on_EBPF)
-- [BAS in Cloud Security](https://cdxiaodong.life/article/BASonCLOUD)
+- [基于 eBPF 的容器安全验证解决方案](https://cdxiaodong.life/article/Solution_on_Container_Security_Verification_based_on_EBPF)
+- [从云原生攻防之道看 BAS 安全验证新方向](https://cdxiaodong.life/article/BASonCLOUD)
 - [深入剖析 uevent_helper 容器逃逸向量](https://cdxiaodong.life/article/uevent_helper)
 - [Kubernetes 安全中的网络隔离](https://cdxiaodong.life/article/Network_isolation_in_K8s_Security)
 - [容器与 Kubernetes 多种配置不当 YAML](https://cdxiaodong.life/article/multiple_improper_configurations_YAML)
 - [多维度云原生 ATT&CK 视角](https://cdxiaodong.life/article/cloud-matrix)
+- [云安全：Kubernetes 内核和用户环境问题](https://cdxiaodong.life/article/k8s-Q_and_A)
+- [容器安全：内核中的各类问题](https://cdxiaodong.life/article/docker-Q_and_A)
+- [云安全：Kubernetes Container 四种后门注入方式](https://cdxiaodong.life/article/four_kinds_of_inject_cloud_solution)
+- [利用 Kubernetes 探针进行持久化的攻防观察与防护](https://cdxiaodong.life/article/2590f0c5-b87c-8084-ab22-ff694b483b90)
+- [Terraform Goat Training](https://cdxiaodong.life/article/terroform_goat_translate)
+- [Developing a Cloud Unauthorized Tool](https://cdxiaodong.life/article/1270f0c5-b87c-806b-a1ac-f6bff54fd5c1)
+- [7 条 Top 云攻击路径](https://cdxiaodong.life/article/lightspin-2022-top-7-attack-paths)
 
-### 🛡️ Application Security, Java & RASP
+### 🌩️ AWS, Azure & GCP Security
 
-- [RASP Attack and Defence](https://cdxiaodong.life/article/RASP-Attack_and_Defence)
+- [AWS S3 Enumeration Basics](https://cdxiaodong.life/article/7762efb2-d768-4d15-898b-3603431307af)
+- [Identify the AWS Account ID from a Public S3 Bucket](https://cdxiaodong.life/article/4309da56-0d65-40a5-885b-7d9107f42d6a)
+- [AWS: Exploit Weak Bucket Policies for Privileged Access](https://cdxiaodong.life/article/1020f0c5-b87c-8075-bf38-ffd752f1ddae)
+- [AWS: Leverage Insecure Storage and Backups](https://cdxiaodong.life/article/aws_security_insecure-storage-backups)
+- [AWS: Leverage Leaked Credentials](https://cdxiaodong.life/article/aws_security_leverage-leaked-credentials-for-pwnage)
+- [AWS SQS and Lambda SQL Injection](https://cdxiaodong.life/article/1010f0c5-b87c-80ca-bdf7-eda1d59771ee)
+- [AWS PwnLab Remaining Techniques](https://cdxiaodong.life/article/aws_security_pwnlab-remaining-techniques)
+- [Azure Blob Container to Initial Access](https://cdxiaodong.life/article/azure_security_blob-container-initial-access)
+- [GCP: Exploit SSRF with Gopher for Initial Access](https://cdxiaodong.life/article/gcp_security_ssrf-gopher-initial-access)
+- [GCP: Reveal Hidden Files in Google Storage](https://cdxiaodong.life/article/gcp_security_reveal-hidden-files)
+- [Cloudflare R2 存储桶探测](https://cdxiaodong.life/article/11d0f0c5-b87c-8018-8570-df79ff559ead)
+
+### 🌐 Application Security, Java & RASP
+
 - [Java 代码审计入门](https://cdxiaodong.github.io/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%85%A5%E9%97%A8.html)
 - [Java 代码审计小 Tips](https://cdxiaodong.github.io/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B0%8Ftips.html)
 - [Java 代码审计：快速四层探索未授权 RCE](https://cdxiaodong.github.io/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1-rce%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%BF%AB%E9%80%9F4%E5%B1%82%E6%8E%A2%E7%B4%A2%E6%9C%AA%E6%8E%88%E6%9D%83.html)
 - [耗时半年挖掘 17 个 Java 闭源系统](https://cdxiaodong.life/article/17-java-vluns)
 - [应用安全 Hacktrick](https://gitbook.cdxiaodong.life/)
 - [穿透 chroot 牢笼的九大逃逸技术](https://cdxiaodong.life/article/1870f0c5-b87c-80a4-aa9d-ecadc029d01f)
+- [Quick MSSQL Penetration](https://cdxiaodong.life/article/mssql-outinto)
+- [RCS 短信协议钓鱼的原理与利用](https://cdxiaodong.life/article/27c0f0c5-b87c-80cb-93ed-d0a25841fd63)
+- [现代钓鱼技术报告](https://cdxiaodong.github.io/%E9%92%93%E9%B1%BC%E6%89%8B%E6%B3%95%E6%8A%A5%E5%91%8A-CD.html)
 
 ### 🖥️ Endpoint, Binary & Systems Engineering
 
-- [50 种终端进程注入：原理与源码](https://cdxiaodong.life/article/2a60f0c5-b87c-8095-92df-eb1fb180b488)
 - [Java 9 后如何实现 Self-Attach](https://cdxiaodong.life/article/java9-self-attch)
 - [Javassist 修改运行时 Java 类名](https://cdxiaodong.life/article/java_modify_class_name)
 - [使用音频在计算机之间传输数据](https://cdxiaodong.life/article/AudioTransmit)
 - [2024GH.V.V `__init__` 隐藏钓鱼木马分析](https://cdxiaodong.life/article/2024GH_V_V__int__analysis)
+- [PHP WebShell：从基础到深入变种](https://cdxiaodong.github.io/phpwebshell%E4%BB%8E%E5%9F%BA%E7%A1%80%E5%88%B0%E6%B7%B1%E5%85%A5%E5%8F%98%E7%A7%8D.html)
+- [Shell 编程开发](https://cdxiaodong.github.io/shell%20%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91.html)
+- [编写第一个 Shell](https://cdxiaodong.github.io/%E5%86%99%E4%B8%AA%E5%A3%B3.html)
+- [内存访问异常 Hook](https://cdxiaodong.github.io/%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%E5%BC%82%E5%B8%B8hook.html)
 
 ### ⚙️ Automation, Workflow & Product Delivery
 
@@ -182,15 +218,20 @@ I am an AI Agent security researcher and engineer working across runtime guardra
 - [Cloud-Native ATT&CK Matrix](https://cloud-matrix.cdxiaodong.life/)
 - [WebCheck-zh](https://github.com/cdxiaodong/web-check-zh)
 
-### 🏁 Competitions, Benchmarks & Research Notes
+### 🎯 CTF, Competitions & Benchmarks
 
-- [智·战 2025：腾讯云鼎 AI 安全测试大赛全景复盘](https://cdxiaodong.life/article/2ba0f0c5-b87c-8060-92c5-e37f04442bc5)
 - [WIZ 2025 竞标赛：第一期](https://cdxiaodong.life/article/2240f0c5-b87c-8019-8f1e-ca441d2fae18)
 - [WIZ 2025 竞标赛：第二期](https://cdxiaodong.life/article/Contain_Me_If_You_Can)
 - [WIZ 2025 竞标赛：第三期](https://cdxiaodong.life/article/Breaking_The_Barriers)
-- [不同深度学习方法在数据特征提取中的应用与比较](https://cdxiaodong.life/article/Application_and_comparison_of_different_deep_learning_methods_in_data_feature_extraction)
 
-Browse the complete archive at **[cdxiaodong.life](https://cdxiaodong.life)**.
+### 📓 Annual Notes
+
+- [2025 总结](https://cdxiaodong.life/article/2eb0f0c5-b87c-8009-a297-f03def633138)
+- [2024 年终总结](https://cdxiaodong.life/article/16d0f0c5-b87c-80af-8816-f77d053073c1)
+
+</details>
+
+Browse the full live archive at **[cdxiaodong.life](https://cdxiaodong.life)**.
 
 ## 📈 Contribution Landscape
 
