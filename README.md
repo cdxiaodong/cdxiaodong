@@ -75,22 +75,21 @@ I am an AI Agent security researcher and engineer working across runtime guardra
 ## 🚀 Featured Projects & Open-source Impact
 
 <p align="center">
-  <a href="https://github.com/cdxiaodong/cain-agent"><img src="assets/profile-cards/cain-agent.svg" alt="cain-agent project card" /></a>
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile-cards/showcase-mobile-dark.png" />
+    <source media="(max-width: 600px)" srcset="assets/profile-cards/showcase-mobile.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/showcase-desktop-dark.png" />
+    <img src="assets/profile-cards/showcase-desktop.png" alt="Featured projects and open-source contributions" width="100%" />
+  </picture>
 </p>
+
 <p align="center">
-  <a href="https://github.com/iOfficeAI/AionUi"><img src="assets/profile-cards/aionui.svg" alt="AionUi contribution card" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/cdxiaodong/Cloud_Unauthorized_Tool"><img src="assets/profile-cards/cloud-unauthorized-tool.svg" alt="Cloud Unauthorized Tool project card" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/shadow1ng/fscan"><img src="assets/profile-cards/fscan.svg" alt="fscan contribution card" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/TeamWiseFlow/xiaobei"><img src="assets/profile-cards/xiaobei.svg" alt="Xiaobei and WiseFlow contribution card" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/White-hua/Apt_t00ls"><img src="assets/profile-cards/apt-t00ls.svg" alt="Apt_t00ls contribution card" /></a>
+  <a href="https://github.com/cdxiaodong/cain-agent"><strong>cain-agent</strong></a> ·
+  <a href="https://github.com/iOfficeAI/AionUi"><strong>AionUi</strong></a> ·
+  <a href="https://github.com/cdxiaodong/Cloud_Unauthorized_Tool"><strong>Cloud Tool</strong></a> ·
+  <a href="https://github.com/shadow1ng/fscan"><strong>fscan</strong></a> ·
+  <a href="https://github.com/TeamWiseFlow/xiaobei"><strong>Xiaobei</strong></a> ·
+  <a href="https://github.com/White-hua/Apt_t00ls"><strong>Apt_t00ls</strong></a>
 </p>
 
 ## 🔬 AI Security Research
