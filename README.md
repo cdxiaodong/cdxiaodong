@@ -86,16 +86,16 @@ I am an AI Agent security researcher and engineer working across runtime guardra
 - **LLM Post-training** -- SFT, LoRA/QLoRA, DPO, GRPO, trajectory distillation, code-gym RL, reward design, and reward-hacking defenses.
 - **Enterprise AI Delivery** -- Agent workflows for security operations, document intelligence, business analysis, API integration, and private-model deployment.
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Open-source Impact
 
-| Project | What it demonstrates |
-| --- | --- |
-| 🤖 [**cain-agent**](https://github.com/cdxiaodong/cain-agent) [![Stars](https://img.shields.io/github/stars/cdxiaodong/cain-agent?style=flat-square&label=stars&color=2F81F7)](https://github.com/cdxiaodong/cain-agent/stargazers) | Real-world AI security-testing agent for authorized assessments. Deterministic orchestration, scope enforcement, read-only toolchain, separate finder/validator sessions, evidence pipelines, and six-cloud coverage. |
-| 🛡️ [**dsh-guardian**](https://github.com/cdxiaodong/dsh-guardian) | Runtime guardrail for tool-using agents. Covers prompt injection, tool poisoning, secret leakage, SSRF, dangerous commands, path sandboxing, risk scoring, and human approval. |
-| 🖥️ [**AionUi**](https://github.com/iOfficeAI/AionUi) [![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&label=stars&color=238636)](https://github.com/iOfficeAI/AionUi/stargazers) | Core open-source contribution to a 24/7 cowork application supporting Claude Code, Codex, OpenCode, OpenClaw, Hermes, and other CLI agents. |
-| 🏝️ [**dsh-island**](https://github.com/cdxiaodong/dsh-island) | Bridges DeepSeek Harness agent state, tools, and approval events to the CodeIsland macOS Dynamic Island interface. |
-| ☁️ [**Cloud_Unauthorized_Tool**](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool) [![Stars](https://img.shields.io/github/stars/cdxiaodong/Cloud_Unauthorized_Tool?style=flat-square&label=stars&color=F59E0B)](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool/stargazers) | Go-based cloud exposure and unauthorized-access validation tooling for controlled security assessments. |
-| 🔌 [**cloud_native_mcp**](https://github.com/cdxiaodong/cloud_native_mcp) | MCP-based multi-cloud security integration covering AWS, Azure, GCP, Alibaba Cloud, Tencent Cloud, and Huawei Cloud. |
+| Project | Role | Impact and focus |
+| --- | --- | --- |
+| 🤖 [**cain-agent**](https://github.com/cdxiaodong/cain-agent) [![Stars](https://img.shields.io/github/stars/cdxiaodong/cain-agent?style=flat-square&label=stars&color=2F81F7)](https://github.com/cdxiaodong/cain-agent/stargazers) | **Creator / Maintainer** | Real-world AI security-testing agent with deterministic orchestration, scope enforcement, evidence pipelines, separated validation sessions, and six-cloud coverage. |
+| 🖥️ [**AionUi**](https://github.com/iOfficeAI/AionUi) [![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&label=stars&color=238636)](https://github.com/iOfficeAI/AionUi/stargazers) | **Core Contributor** | 24/7 cowork application supporting Claude Code, Codex, OpenCode, OpenClaw, Hermes, and 20+ CLI agents. |
+| 🔭 [**fscan**](https://github.com/shadow1ng/fscan) [![Stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square&label=stars&color=238636)](https://github.com/shadow1ng/fscan/stargazers) | **Contributor** | Contributed port-exclusion capability to a widely used intranet security assessment toolkit. |
+| 🧠 [**Xiaobei / WiseFlow**](https://github.com/TeamWiseFlow/xiaobei) [![Stars](https://img.shields.io/github/stars/TeamWiseFlow/xiaobei?style=flat-square&label=stars&color=8B5CF6)](https://github.com/TeamWiseFlow/xiaobei/stargazers) | **Open-source Contributor** | AI agent platform for automated content intelligence, acquisition workflows, and small-business operations. |
+| 🧰 [**Apt_t00ls**](https://github.com/White-hua/Apt_t00ls) [![Stars](https://img.shields.io/github/stars/White-hua/Apt_t00ls?style=flat-square&label=stars&color=DC2626)](https://github.com/White-hua/Apt_t00ls/stargazers) | **Contributor / Fork Maintainer** | High-risk vulnerability verification toolkit; maintained a personal fork and contributed to its practical security workflow. |
+| ☁️ [**Cloud_Unauthorized_Tool**](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool) [![Stars](https://img.shields.io/github/stars/cdxiaodong/Cloud_Unauthorized_Tool?style=flat-square&label=stars&color=F59E0B)](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool/stargazers) | **Creator / Maintainer** | Go-based cloud exposure and unauthorized-access validation across multiple services for controlled assessments. |
 
 > Security projects are intended for authorized testing, defensive research, and environments where the operator has explicit permission.
 
@@ -121,24 +121,76 @@ I am an AI Agent security researcher and engineer working across runtime guardra
 | :---: | :---: |
 | <img src="img/mlF65.png" alt="AI Security Challenge" width="320"> | <img src="img/EntraID_Sensitive_Privileges_Breaking_Barriers.png" alt="Split Horizon" width="320"> |
 
-## 🌐 Open-source Contributions
+## 🧭 Project & Tool Map
 
-- **AionUi** -- core contributor across agent experience and product engineering.
-- **Claude Agent SDK** -- contributor and application builder.
-- **WiseFlow / Xiaobei, n8n, Fscan, Apt_t00ls, JarEditor, Memexec, Deadpool, and KubeAPI-Inspector** -- code, integration, documentation, or usability contributions.
-- Active work across Agent runtime protection, DeepSeek Harness plugins, cloud-security tooling, and developer automation.
+| Category | Projects and contributions |
+| --- | --- |
+| 🤖 **Agentic AI & LLM** | [cain-agent](https://github.com/cdxiaodong/cain-agent) · [dsh-guardian](https://github.com/cdxiaodong/dsh-guardian) · [dsh-island](https://github.com/cdxiaodong/dsh-island) · [dsh-llm-inspector](https://github.com/cdxiaodong/dsh-llm-inspector) · [claude-agent-sdk-dev](https://github.com/cdxiaodong/claude-agent-sdk-dev) · [cloud_native_mcp](https://github.com/cdxiaodong/cloud_native_mcp) |
+| ☁️ **Cloud & Container Security** | [Cloud_Unauthorized_Tool](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool) · [ebpf-c-tample-action](https://github.com/cdxiaodong/ebpf-c-tample-action) · [k8s-2024-21626](https://github.com/cdxiaodong/k8s-2024-21626) · [CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626) · [auto_change_version_for_cloudnative](https://github.com/cdxiaodong/auto_change_version_for_cloudnative) |
+| 🌐 **Application, Network & Runtime Security** | [Apt_t00ls fork](https://github.com/cdxiaodong/Apt_t00ls) · [ASM-hide-RASP](https://github.com/cdxiaodong/ASM-hide-RASP) · [fscan contribution](https://github.com/shadow1ng/fscan) · [KubeAPI-Inspector contribution](https://github.com/yeahx/KubeAPI-Inspector) · [Deadpool contribution](https://github.com/thinkoaa/Deadpool) · [JarEditor contribution](https://github.com/Liubsyy/JarEditor) |
+| 🖥️ **Binary & Endpoint Research** | [Transacted-Hollowing-allinone](https://github.com/cdxiaodong/Transacted-Hollowing-allinone) · [audio-reverse-shell](https://github.com/cdxiaodong/audio-reverse-shell) · [AVkiller](https://github.com/cdxiaodong/AVkiller) · [packer](https://github.com/cdxiaodong/packer) · [STEAL-HOOK](https://github.com/cdxiaodong/STEAL-HOOK) · [Binary Utility Functions](https://github.com/cdxiaodong/some-function-in-binary) |
+| ⚙️ **Automation & Developer Tools** | [Site-Specific Extension Manager](https://github.com/cdxiaodong/Site-Specific-Extension-Manager) · [workflow-use](https://github.com/cdxiaodong/workflow-use) · [clash-verge-mcp-pro](https://github.com/cdxiaodong/clash-verge-mcp-pro) · [web-check-zh](https://github.com/cdxiaodong/web-check-zh) · [Docker utilities](https://github.com/cdxiaodong/-Docker-) · [Windows Internals notes](https://github.com/cdxiaodong/windows-internals-7th-Chinese-) |
+| 🧩 **Products & Interactive Systems** | [Cloud-Native ATT&CK Matrix](https://cloud-matrix.cdxiaodong.life/) · [Top 7 Cloud Attack Paths](https://top-7-attack-paths.cdxiaodong.life/) · [Favorite Articles Real-Time](https://favorite-article.cdxiaodong.life/) |
 
-## ✍️ Selected Writing
+## 📚 Writing Library
+
+### 🤖 Agentic AI, LLM & Model Engineering
 
 - [OpenClaw 17个漏洞攻击面：发布此文时只修复一个](https://cdxiaodong.life/article/3230f0c5-b87c-80c6-b3ca-e3ac510aa3cd)
 - [工具调用的信任困境：AI 编程智能体是如何沦为“盲从执行者”的](https://cdxiaodong.life/article/31a0f0c5-b87c-80d4-8c44-d29040794e9b)
 - [Claude Code v2.1.71 -- 完整架构分析报告](https://cdxiaodong.life/article/31d0f0c5-b87c-8043-84a2-d47565f6f9e5)
 - [从“灰产数据”到“数据供应链”：我对 Codex 污染问题的四轮追溯](https://cdxiaodong.life/article/3060f0c5-b87c-80c2-b91a-d531f9cb294b)
-- [智·战 2025 -- 腾讯云鼎 AI 安全测试大赛全景复盘](https://cdxiaodong.life/article/2ba0f0c5-b87c-8060-92c5-e37f04442bc5)
 - [AI Agent 中浮点计算导致结果不一致：成因、影响与优化策略](https://cdxiaodong.life/article/27c0f0c5-b87c-80f0-8eb0-e624f409b8d5)
-- [RASP Attack and Defence](https://cdxiaodong.life/article/RASP-Attack_and_Defence)
+- [简单制作 AI API 办公机器人](https://cdxiaodong.life/article/Multiple_AI_tool_script)
+- [不同深度学习方法在数据特征提取中的应用与比较](https://cdxiaodong.life/article/Application_and_comparison_of_different_deep_learning_methods_in_data_feature_extraction)
 
-Read all articles at **[cdxiaodong.life](https://cdxiaodong.life)**.
+### ☁️ Cloud & Container Security
+
+- [Kubernetes Goat](https://cdxiaodong.life/article/Kubernetes-Goat)
+- [CVE-2024-21626 Analysis](https://cdxiaodong.life/article/CVE-2024-21626)
+- [eBPF in Docker](https://cdxiaodong.life/article/ebpf_in_docker)
+- [Container Security Verification with eBPF](https://cdxiaodong.life/article/Solution_on_Container_Security_Verification_based_on_EBPF)
+- [BAS in Cloud Security](https://cdxiaodong.life/article/BASonCLOUD)
+- [深入剖析 uevent_helper 容器逃逸向量](https://cdxiaodong.life/article/uevent_helper)
+- [Kubernetes 安全中的网络隔离](https://cdxiaodong.life/article/Network_isolation_in_K8s_Security)
+- [容器与 Kubernetes 多种配置不当 YAML](https://cdxiaodong.life/article/multiple_improper_configurations_YAML)
+- [多维度云原生 ATT&CK 视角](https://cdxiaodong.life/article/cloud-matrix)
+
+### 🛡️ Application Security, Java & RASP
+
+- [RASP Attack and Defence](https://cdxiaodong.life/article/RASP-Attack_and_Defence)
+- [Java 代码审计入门](https://cdxiaodong.github.io/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%85%A5%E9%97%A8.html)
+- [Java 代码审计小 Tips](https://cdxiaodong.github.io/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B0%8Ftips.html)
+- [Java 代码审计：快速四层探索未授权 RCE](https://cdxiaodong.github.io/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1-rce%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%BF%AB%E9%80%9F4%E5%B1%82%E6%8E%A2%E7%B4%A2%E6%9C%AA%E6%8E%88%E6%9D%83.html)
+- [耗时半年挖掘 17 个 Java 闭源系统](https://cdxiaodong.life/article/17-java-vluns)
+- [应用安全 Hacktrick](https://gitbook.cdxiaodong.life/)
+- [穿透 chroot 牢笼的九大逃逸技术](https://cdxiaodong.life/article/1870f0c5-b87c-80a4-aa9d-ecadc029d01f)
+
+### 🖥️ Endpoint, Binary & Systems Engineering
+
+- [50 种终端进程注入：原理与源码](https://cdxiaodong.life/article/2a60f0c5-b87c-8095-92df-eb1fb180b488)
+- [Java 9 后如何实现 Self-Attach](https://cdxiaodong.life/article/java9-self-attch)
+- [Javassist 修改运行时 Java 类名](https://cdxiaodong.life/article/java_modify_class_name)
+- [使用音频在计算机之间传输数据](https://cdxiaodong.life/article/AudioTransmit)
+- [2024GH.V.V `__init__` 隐藏钓鱼木马分析](https://cdxiaodong.life/article/2024GH_V_V__int__analysis)
+
+### ⚙️ Automation, Workflow & Product Delivery
+
+- [AI 促进汇报：PPT 与报告最佳实践](https://cdxiaodong.life/article/2c30f0c5-b87c-8026-ab59-f8c77d346bbe)
+- [AI + Plotly + Python + Notion/Feishu 实现旭日图表](https://cdxiaodong.life/article/notion_or_feishu)
+- [实现收藏文章即时同步静态站点](https://cdxiaodong.life/article/favorite-article)
+- [Cloud-Native ATT&CK Matrix](https://cloud-matrix.cdxiaodong.life/)
+- [WebCheck-zh](https://github.com/cdxiaodong/web-check-zh)
+
+### 🏁 Competitions, Benchmarks & Research Notes
+
+- [智·战 2025：腾讯云鼎 AI 安全测试大赛全景复盘](https://cdxiaodong.life/article/2ba0f0c5-b87c-8060-92c5-e37f04442bc5)
+- [WIZ 2025 竞标赛：第一期](https://cdxiaodong.life/article/2240f0c5-b87c-8019-8f1e-ca441d2fae18)
+- [WIZ 2025 竞标赛：第二期](https://cdxiaodong.life/article/Contain_Me_If_You_Can)
+- [WIZ 2025 竞标赛：第三期](https://cdxiaodong.life/article/Breaking_The_Barriers)
+- [不同深度学习方法在数据特征提取中的应用与比较](https://cdxiaodong.life/article/Application_and_comparison_of_different_deep_learning_methods_in_data_feature_extraction)
+
+Browse the complete archive at **[cdxiaodong.life](https://cdxiaodong.life)**.
 
 ## 📈 Contribution Landscape
 
@@ -146,52 +198,6 @@ Read all articles at **[cdxiaodong.life](https://cdxiaodong.life)**.
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
   <img src="profile-3d-contrib/profile-season.svg" alt="CDxiaodong 3D contribution graph" width="100%" />
 </picture>
-
-## 🗂️ Earlier Work
-
-<details>
-<summary><strong>Security tools, PoCs, and systems archive</strong></summary>
-
-### Cloud and container security
-
-- [ebpf-c-tample-action](https://github.com/cdxiaodong/ebpf-c-tample-action)
-- [k8s-2024-21626](https://github.com/cdxiaodong/k8s-2024-21626)
-- [docker-for-Verification](https://github.com/cdxiaodong/docker-for-Verification)
-- [CVE-2024-21626](https://github.com/cdxiaodong/CVE-2024-21626)
-- [CVE-2021-4034-touch](https://github.com/cdxiaodong/CVE-2021-4034-touch)
-- 20 container-security CVE images and validation environments
-
-### Runtime, binary, and authorized red-team research
-
-- [ASM-hide-RASP](https://github.com/cdxiaodong/ASM-hide-RASP)
-- [Transacted-Hollowing-allinone](https://github.com/cdxiaodong/Transacted-Hollowing-allinone)
-- [Audio Reverse Shell](https://github.com/cdxiaodong/audio-reverse-shell)
-- [AVkiller](https://github.com/cdxiaodong/AVkiller)
-- [Packer](https://github.com/cdxiaodong/packer)
-- [CS](https://github.com/cdxiaodong/cs)
-- [STEAL-HOOK](https://github.com/cdxiaodong/STEAL-HOOK)
-- [Binary Utility Functions](https://github.com/cdxiaodong/some-function-in-binary)
-- `NCuploadServletRCE` -- historical repository, no longer publicly available
-- [Apt_t00ls fork](https://github.com/cdxiaodong/Apt_t00ls)
-- [selenium-nps](https://github.com/cdxiaodong/-selenium-nps-)
-- [shell research](https://github.com/cdxiaodong/-shell-)
-
-### Development and productivity
-
-- [Site-Specific Extension Manager](https://github.com/cdxiaodong/Site-Specific-Extension-Manager)
-- [Windows Internals 7th Chinese notes](https://github.com/cdxiaodong/windows-internals-7th-Chinese-)
-- [Docker notes](https://github.com/cdxiaodong/-Docker-)
-
-</details>
-
-<details>
-<summary><strong>SaaS and interactive projects</strong></summary>
-
-- [Cloud-Native ATT&CK Matrix](https://cloud-matrix.cdxiaodong.life/) -- multi-dimensional view of cloud attack techniques.
-- [Top 7 Cloud Attack Paths](https://top-7-attack-paths.cdxiaodong.life/) -- interactive cloud-security attack-path reference.
-- [Favorite Articles Real-Time](https://favorite-article.cdxiaodong.life/) -- continuously updated reading and research collection.
-
-</details>
 
 <details>
 <summary><strong>Complete legacy profile and writing archive</strong></summary>
