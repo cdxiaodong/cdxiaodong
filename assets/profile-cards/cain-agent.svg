@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="148" viewBox="0 0 420 148" role="img" aria-labelledby="title desc">
+  <title id="title">cain-agent</title>
+  <desc id="desc">Secure AI assessment agent created and maintained by CDxiaodong</desc>
+  <style>
+    .card{fill:#f6f8fa;stroke:#d0d7de}.eyebrow,.meta{font-family:Inter,"Segoe UI",Arial,sans-serif;font-weight:700}.eyebrow{font-size:10px;fill:#57606a}.title{font-family:Inter,"Segoe UI",Arial,sans-serif;font-size:22px;font-weight:700;fill:#0969da}.copy{font-family:Inter,"Segoe UI",Arial,sans-serif;font-size:14px;fill:#24292f}.chip{fill:#ddf4ff}.meta{font-size:10px;fill:#0550ae}.star{font-family:Inter,"Segoe UI",Arial,sans-serif;font-size:12px;font-weight:700;fill:#9a6700}
+    @media(prefers-color-scheme:dark){.card{fill:#161b22;stroke:#30363d}.eyebrow{fill:#8b949e}.title{fill:#58a6ff}.copy{fill:#c9d1d9}.chip{fill:#0d419d}.meta{fill:#cae8ff}.star{fill:#e3b341}}
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="419" height="147" rx="8"/>
+  <rect x="0.5" y="0.5" width="5" height="147" rx="3" fill="#2f81f7"/>
+  <text class="eyebrow" x="22" y="25">OWNED · AGENTIC AI</text>
+  <text class="title" x="22" y="54">cain-agent</text>
+  <text class="copy" x="22" y="82">Secure AI assessment with deterministic</text>
+  <text class="copy" x="22" y="103">orchestration and evidence pipelines.</text>
+  <rect class="chip" x="22" y="116" width="151" height="21" rx="4"/>
+  <text class="meta" x="33" y="130">CREATOR · MAINTAINER</text>
+  <text class="star" x="394" y="131" text-anchor="end">★ 413</text>
+</svg>

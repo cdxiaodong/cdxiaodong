@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="148" viewBox="0 0 420 148" role="img" aria-labelledby="title desc">
+  <title id="title">AionUi</title>
+  <desc id="desc">Open-source AI cowork application with CDxiaodong as a core contributor</desc>
+  <style>
+    .card{fill:#f6f8fa;stroke:#d0d7de}.eyebrow,.meta{font-family:Inter,"Segoe UI",Arial,sans-serif;font-weight:700}.eyebrow{font-size:10px;fill:#57606a}.title{font-family:Inter,"Segoe UI",Arial,sans-serif;font-size:22px;font-weight:700;fill:#0969da}.copy{font-family:Inter,"Segoe UI",Arial,sans-serif;font-size:14px;fill:#24292f}.chip{fill:#dafbe1}.meta{font-size:10px;fill:#116329}.star{font-family:Inter,"Segoe UI",Arial,sans-serif;font-size:12px;font-weight:700;fill:#9a6700}
+    @media(prefers-color-scheme:dark){.card{fill:#161b22;stroke:#30363d}.eyebrow{fill:#8b949e}.title{fill:#58a6ff}.copy{fill:#c9d1d9}.chip{fill:#033a16}.meta{fill:#aff5b4}.star{fill:#e3b341}}
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="419" height="147" rx="8"/>
+  <rect x="0.5" y="0.5" width="5" height="147" rx="3" fill="#238636"/>
+  <text class="eyebrow" x="22" y="25">OPEN SOURCE · AGENT PLATFORM</text>
+  <text class="title" x="22" y="54">AionUi</text>
+  <text class="copy" x="22" y="82">24/7 cowork application supporting Claude Code,</text>
+  <text class="copy" x="22" y="103">Codex, OpenCode, OpenClaw, Hermes, and more.</text>
+  <rect class="chip" x="22" y="116" width="124" height="21" rx="4"/>
+  <text class="meta" x="33" y="130">CORE CONTRIBUTOR</text>
+  <text class="star" x="394" y="131" text-anchor="end">★ 32K+</text>
+</svg>

@@ -74,19 +74,24 @@ I am an AI Agent security researcher and engineer working across runtime guardra
 
 ## 🚀 Featured Projects & Open-source Impact
 
-### Built & Maintained
-
-- 🤖 [**cain-agent**](https://github.com/cdxiaodong/cain-agent) [![Stars](https://img.shields.io/github/stars/cdxiaodong/cain-agent?style=flat-square&label=stars&color=2F81F7)](https://github.com/cdxiaodong/cain-agent/stargazers) — Secure AI assessment agent with deterministic orchestration, scope control, evidence pipelines, and six-cloud coverage.
-- ☁️ [**Cloud_Unauthorized_Tool**](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool) [![Stars](https://img.shields.io/github/stars/cdxiaodong/Cloud_Unauthorized_Tool?style=flat-square&label=stars&color=F59E0B)](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool/stargazers) — Go-based cloud exposure and unauthorized-access validation across multiple services.
-
-### Selected Open-source Contributions
-
-- 🖥️ [**AionUi**](https://github.com/iOfficeAI/AionUi) [![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&label=stars&color=238636)](https://github.com/iOfficeAI/AionUi/stargazers) — **Core Contributor** to a 24/7 cowork application supporting Claude Code, Codex, OpenCode, OpenClaw, Hermes, and 20+ CLI agents.
-- 🔭 [**fscan**](https://github.com/shadow1ng/fscan) [![Stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square&label=stars&color=238636)](https://github.com/shadow1ng/fscan/stargazers) — Contributed port-exclusion capability to a widely used intranet security assessment toolkit.
-- 🧠 [**Xiaobei / WiseFlow**](https://github.com/TeamWiseFlow/xiaobei) [![Stars](https://img.shields.io/github/stars/TeamWiseFlow/xiaobei?style=flat-square&label=stars&color=8B5CF6)](https://github.com/TeamWiseFlow/xiaobei/stargazers) — Contributed to an AI agent platform for content intelligence, acquisition workflows, and small-business operations.
-- 🧰 [**Apt_t00ls**](https://github.com/White-hua/Apt_t00ls) [![Stars](https://img.shields.io/github/stars/White-hua/Apt_t00ls?style=flat-square&label=stars&color=DC2626)](https://github.com/White-hua/Apt_t00ls/stargazers) — Contributor and fork maintainer for practical, authorized vulnerability verification workflows.
-
-> Security projects are intended for authorized testing, defensive research, and environments where the operator has explicit permission.
+<p align="center">
+  <a href="https://github.com/cdxiaodong/cain-agent"><img src="assets/profile-cards/cain-agent.svg" alt="cain-agent project card" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/iOfficeAI/AionUi"><img src="assets/profile-cards/aionui.svg" alt="AionUi contribution card" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/cdxiaodong/Cloud_Unauthorized_Tool"><img src="assets/profile-cards/cloud-unauthorized-tool.svg" alt="Cloud Unauthorized Tool project card" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/shadow1ng/fscan"><img src="assets/profile-cards/fscan.svg" alt="fscan contribution card" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/TeamWiseFlow/xiaobei"><img src="assets/profile-cards/xiaobei.svg" alt="Xiaobei and WiseFlow contribution card" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/White-hua/Apt_t00ls"><img src="assets/profile-cards/apt-t00ls.svg" alt="Apt_t00ls contribution card" /></a>
+</p>
 
 ## 🔬 AI Security Research
 
