@@ -56,13 +56,13 @@ I am an AI Agent security researcher and engineer working across runtime guardra
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cdxiaodong&theme=github_dark" alt="Repositories per language" width="31%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cdxiaodong&theme=github_dark" alt="GitHub stats" width="31%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cdxiaodong&theme=github_dark&utcOffset=8" alt="Productive time" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cdxiaodong&theme=github_dark" alt="Repositories per language" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cdxiaodong&theme=github_dark" alt="Most committed languages" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cdxiaodong&theme=github-dark-blue&hide_border=true" alt="GitHub streak" width="55%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cdxiaodong&theme=github_dark" alt="GitHub stats" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cdxiaodong&theme=github_dark&utcOffset=8" alt="Productive time" width="47%" />
 </p>
 
 ## 🧰 AI & Engineering Toolkit
